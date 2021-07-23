@@ -61,7 +61,7 @@ void deletefile()
 }
 int main()
 {
- int c, emp;
+ int c;
  do
  {
   printf("\n\t---Select your choice---------\n");
